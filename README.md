@@ -1,4 +1,7 @@
 # Breaking-Bad
+
+The Breaking Bad Api has become depricated hence could not complete this project!!!
+
 React project that uses the breaking bad api to show and filter characters from the show.
 
 The Breaking Bad API got depreciated, hence could not finish this project but in the future if I find any breaking bad api, I'll continue with this project.
